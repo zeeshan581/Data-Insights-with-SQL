@@ -1,4 +1,5 @@
-#SQL Data Analytics Project
+##SQL Data Analytics Project
+
 **Overview**
 
 This project is a comprehensive SQL repository focused on data exploration, trend analysis, and reporting across diverse datasets. It demonstrates advanced SQL techniques and provides reusable queries to streamline data analysis and business intelligence workflows.
