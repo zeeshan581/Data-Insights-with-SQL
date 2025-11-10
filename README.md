@@ -1,29 +1,29 @@
-# 💳 Credit Card Fraud Detection 
+# Credit Card Fraud Detection 
 
 An end-to-end data science project integrating **SQL-based data analytics** with **machine learning modeling** to detect fraudulent credit card transactions.  
 The project demonstrates the complete data pipeline — from data exploration and feature engineering to model deployment and visualization.
 
 ---
 
-## 🧭 Overview
+## Overview
 
 This project analyzes over **1 million credit card transactions** to detect fraudulent behavior using **SQL for data analysis** and **machine learning for classification**.
 
-### 🔍 Goals
+### Goals
 - Explore transactional data to understand patterns of legitimate vs. fraudulent behavior  
 - Build a predictive ML model to detect fraud in real-time  
 - Deploy an interactive web app for predictions and visualization  
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 **Languages:** SQL, Python  
 **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Plotly, Flask  
 **SQL Concepts:** CTEs, Window Functions (RANK, ROW_NUMBER, LAG), Joins, Aggregations  
 
 ---
 
-## 📊 Process Flow
+## Process Flow
 1. **SQL Analysis**
    - Used advanced queries to explore data, identify anomalies, and compute KPIs  
    - Cleaned and transformed tables for machine learning pipeline  
@@ -38,14 +38,14 @@ This project analyzes over **1 million credit card transactions** to detect frau
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - Fraudulent transactions tend to occur in short bursts within narrow time windows.  
 - Behavioral features (like transaction distance and frequency) significantly improve fraud detection accuracy.  
 - Data imbalance handled effectively with **SMOTE** for model stability.  
 
 ---
 
-## 🧠 Results
+## Results
 | Metric | Score |
 |---------|--------|
 | Accuracy | 95.2% |
@@ -55,7 +55,7 @@ This project analyzes over **1 million credit card transactions** to detect frau
 
 ---
 
-## 🧾 License
+## License
 Licensed under the MIT License.
 
 ---
