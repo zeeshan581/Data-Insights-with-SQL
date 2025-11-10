@@ -31,37 +31,11 @@ This project is a comprehensive SQL repository focused on data exploration, tren
 - Aggregations (SUM, COUNT, AVG, MAX, MIN)  
 - Nested queries and subqueries for complex data manipulation
 
----
-
-## About
-
-No description, website, or topics provided.
-
----
-
-## Resources
-
-- Readme  
+--- 
 
 ### License
 MIT license  
 
-### Activity
-- Stars: 0 stars  
-- Watchers: 0 watching  
-- Forks: 0 forks  
-
-### Releases
-No releases published  
-Create a new release  
-
-### Packages
-No packages published  
-Publish your first package  
-
-### Languages
-- TSQL 100.0%
-
 ---
 
-## Footer
+
